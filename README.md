@@ -1,1 +1,2 @@
 # kryptografia
+first push
