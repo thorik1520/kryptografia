@@ -1,0 +1,18 @@
+Zadanie 1
+(X = XOR bitowy)
+c X c1 X a
+c X c2 X a
+  ...
+c X c20 x a
+
+Przykład:
+c X c1 X a = s
+c X c2 X a = t
+  Jeśli:
+  c1 X c2 X s = t, to w 'c' mamy na pewno 'a'
+
+Zadanie 2
+Zczytujemy ostatnie 64 bity klucza
+RAPORT: idea ataku, odpowiedzi na 3 pytania, słowo-klucz: paradoks urodzinowy (average case - wystarcza pierwiastek z mocy domeny porównań)
+Atak Kleine'a
+Wielce pomoże zrozumienie RC4, niewiele natomiast SHA-256
